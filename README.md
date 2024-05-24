@@ -21,7 +21,7 @@ The CSS file (`style.css`) defines the styling for the entire website, including
 ![alt text](<assets/Images/Elisse New Portfolio.png>)
 
 ## Website 
-To access Elisse Portfolio- select this link: 
+To access Elisse Portfolio- select this link: https://elissegomez24.github.io/Elisse-Portfolio/ 
 
 ## Usage
 To use this code, simply clone the repository and open the `index.html` file in a web browser. Make sure to maintain the file structure to ensure proper functioning.
